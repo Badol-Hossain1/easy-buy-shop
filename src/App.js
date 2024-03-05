@@ -25,11 +25,11 @@ function App() {
         <Loading />
       ) : (
         <QueryClientProvider client={queryClient}>
-          {/* <AuthContextProvider> */}
+   
           <AllRoutes />
 
           <ToastContainer autoClose={1500} />
-          {/* </AuthContextProvider> */}
+   
         </QueryClientProvider>
       )}
     </div>

@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://assinment-12-6ac8f.web.app/).
 
-## Live Side Link : https://assinment-12-6ac8f.web.app/
+## Live Side Link : 
 
 Project details
 
